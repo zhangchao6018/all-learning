@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * 类名称：CommonMetaObjectHandler
  * ********************************
  * <p>
- * 类描述：公共元数据处理器
+ * 类描述：公共元数据处理器  -> 场景:每个表都有公共字段,这个类就是为抽取保存/更新表 的重复代码而创建的
  *
  * @author
  * @date 下午2:57
